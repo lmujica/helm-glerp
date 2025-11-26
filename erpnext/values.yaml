@@ -12,8 +12,8 @@
 # dbExistingSecretPasswordKey: "password"
 
 image:
-  repository: frappe/erpnext
-  tag: v15.90.1
+  repository: ghcr.io/lmujica/glerp
+  tag: dev
   pullPolicy: IfNotPresent
 
 nginx:
